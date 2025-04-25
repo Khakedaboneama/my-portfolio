@@ -18,18 +18,3 @@ It includes clean design and intuitive layout with sections like:
 
 > Tools Used: `HTML`, `CSS`, `JavaScript`
 
----
-
-### 2. 🛍️ Simple Store Website
-
-A clean and simple online store layout, developed using only **HTML** and **CSS**.  
-Perfect for showcasing products in a structured and visually appealing way.
-
-#### 🔹 Features:
-
-- ✅ Responsive design for all devices  
-- ✅ Organized product listing layout  
-- ✅ Lightweight and fast-loading pages  
-- ✅ Clean and user-friendly interface  
-
-> Tools Used: `HTML`, `CSS`
